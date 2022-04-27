@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/gardenwebsite/static/js/main.cf3fdcf7.js",
+    "static/media/garden5.png": "/gardenwebsite/static/media/garden5.eb37cacf656a67d75147.png",
+    "static/media/garden1.png": "/gardenwebsite/static/media/garden1.97275b18f07406e6f4b6.png",
+    "static/media/garden4.png": "/gardenwebsite/static/media/garden4.0be3fbf56dd3f31d6273.png",
+    "static/media/garden3.png": "/gardenwebsite/static/media/garden3.bcb01929faaa9c726719.png",
+    "static/media/garden2.png": "/gardenwebsite/static/media/garden2.54d1e7742cf5b8c97c27.png",
+    "static/media/oldman.png": "/gardenwebsite/static/media/oldman.11e32b1fdf21b5fe4dcd.png",
+    "static/media/gardenplan2.png": "/gardenwebsite/static/media/gardenplan2.fed6fa734081119f3756.png",
+    "static/media/gardenplan3.png": "/gardenwebsite/static/media/gardenplan3.fdd31f5de6bcee86eee2.png",
+    "static/media/gardenplan1.png": "/gardenwebsite/static/media/gardenplan1.8bb6929c38230c6b0fa0.png",
+    "index.html": "/gardenwebsite/index.html",
+    "main.cf3fdcf7.js.map": "/gardenwebsite/static/js/main.cf3fdcf7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cf3fdcf7.js"
+  ]
+}
