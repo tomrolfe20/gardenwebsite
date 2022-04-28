@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/gardenwebsite/static/js/main.95ca379f.js",
+    "main.js": "/gardenwebsite/static/js/main.139b18d9.js",
     "static/media/garden4.png": "/gardenwebsite/static/media/garden4.0be3fbf56dd3f31d6273.png",
     "static/media/leaves1.png": "/gardenwebsite/static/media/leaves1.0d4a9f2d1e310694012c.png",
     "static/media/garden2.png": "/gardenwebsite/static/media/garden2.54d1e7742cf5b8c97c27.png",
@@ -10,9 +10,9 @@
     "static/media/gardenplan1.png": "/gardenwebsite/static/media/gardenplan1.8bb6929c38230c6b0fa0.png",
     "static/media/arrow.png": "/gardenwebsite/static/media/arrow.be042163c3665df42cfc.png",
     "index.html": "/gardenwebsite/index.html",
-    "main.95ca379f.js.map": "/gardenwebsite/static/js/main.95ca379f.js.map"
+    "main.139b18d9.js.map": "/gardenwebsite/static/js/main.139b18d9.js.map"
   },
   "entrypoints": [
-    "static/js/main.95ca379f.js"
+    "static/js/main.139b18d9.js"
   ]
 }
