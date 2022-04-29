@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/gardenwebsite/static/js/main.e1e4a950.js",
-    "static/media/garden4.png": "/gardenwebsite/static/media/garden4.0be3fbf56dd3f31d6273.png",
-    "static/media/leaves1.png": "/gardenwebsite/static/media/leaves1.0d4a9f2d1e310694012c.png",
-    "static/media/garden2.png": "/gardenwebsite/static/media/garden2.54d1e7742cf5b8c97c27.png",
-    "static/media/oldman.png": "/gardenwebsite/static/media/oldman.11e32b1fdf21b5fe4dcd.png",
+    "main.js": "/gardenwebsite/static/js/main.0aa70b04.js",
+    "static/media/leaves1.png": "/gardenwebsite/static/media/leaves1.bd851267b43e9c8bcce7.png",
     "static/media/gardenplan2.png": "/gardenwebsite/static/media/gardenplan2.fed6fa734081119f3756.png",
+    "static/media/garden2.png": "/gardenwebsite/static/media/garden2.5f020c4c27b54b01310b.png",
+    "static/media/garden4.png": "/gardenwebsite/static/media/garden4.8d29e60c6e17312e663b.png",
+    "static/media/oldman.png": "/gardenwebsite/static/media/oldman.dae50caf3634bf3c3c72.png",
     "static/media/gardenplan3.png": "/gardenwebsite/static/media/gardenplan3.fdd31f5de6bcee86eee2.png",
     "static/media/gardenplan1.png": "/gardenwebsite/static/media/gardenplan1.8bb6929c38230c6b0fa0.png",
     "static/media/arrow.png": "/gardenwebsite/static/media/arrow.be042163c3665df42cfc.png",
     "index.html": "/gardenwebsite/index.html",
-    "main.e1e4a950.js.map": "/gardenwebsite/static/js/main.e1e4a950.js.map"
+    "main.0aa70b04.js.map": "/gardenwebsite/static/js/main.0aa70b04.js.map"
   },
   "entrypoints": [
-    "static/js/main.e1e4a950.js"
+    "static/js/main.0aa70b04.js"
   ]
 }
