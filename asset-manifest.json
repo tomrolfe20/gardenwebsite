@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/gardenwebsite/static/js/main.70c8cfa6.js",
+    "main.js": "/gardenwebsite/static/js/main.758f438f.js",
     "static/media/leaves1.png": "/gardenwebsite/static/media/leaves1.bd851267b43e9c8bcce7.png",
-    "static/media/garden1.png": "/gardenwebsite/static/media/garden1.97275b18f07406e6f4b6.png",
-    "static/media/garden3.png": "/gardenwebsite/static/media/garden3.bcb01929faaa9c726719.png",
-    "static/media/gardenplan2.png": "/gardenwebsite/static/media/gardenplan2.fed6fa734081119f3756.png",
-    "static/media/garden2.png": "/gardenwebsite/static/media/garden2.5f020c4c27b54b01310b.png",
-    "static/media/garden4.png": "/gardenwebsite/static/media/garden4.8d29e60c6e17312e663b.png",
+    "static/media/garden1.png": "/gardenwebsite/static/media/garden1.6cf94411c5b1347f5e47.png",
+    "static/media/garden3.png": "/gardenwebsite/static/media/garden3.9312784fa676f319e335.png",
+    "static/media/garden2.png": "/gardenwebsite/static/media/garden2.60944f8eeaf7063c8d72.png",
+    "static/media/gardenplan1.png": "/gardenwebsite/static/media/gardenplan1.b9145a2cd643aaf2d4bb.png",
+    "static/media/gardenplan2.png": "/gardenwebsite/static/media/gardenplan2.6f97578132059b62ab21.png",
+    "static/media/garden4.png": "/gardenwebsite/static/media/garden4.64dd7df0b8a9d254504d.png",
     "static/media/oldman.png": "/gardenwebsite/static/media/oldman.dae50caf3634bf3c3c72.png",
-    "static/media/gardenplan3.png": "/gardenwebsite/static/media/gardenplan3.fdd31f5de6bcee86eee2.png",
-    "static/media/gardenplan1.png": "/gardenwebsite/static/media/gardenplan1.8bb6929c38230c6b0fa0.png",
+    "static/media/gardenplan3.png": "/gardenwebsite/static/media/gardenplan3.5d564479247da657bbb1.png",
     "static/media/arrow.png": "/gardenwebsite/static/media/arrow.be042163c3665df42cfc.png",
     "index.html": "/gardenwebsite/index.html",
-    "main.70c8cfa6.js.map": "/gardenwebsite/static/js/main.70c8cfa6.js.map"
+    "main.758f438f.js.map": "/gardenwebsite/static/js/main.758f438f.js.map"
   },
   "entrypoints": [
-    "static/js/main.70c8cfa6.js"
+    "static/js/main.758f438f.js"
   ]
 }
